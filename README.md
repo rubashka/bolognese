@@ -27,9 +27,11 @@
  ┃ ┃ ┣ 📂 com.example.project
  ┃ ┃ ┃ ┣ 📂 controller      # 컨트롤러 클래스 포함
  ┃ ┃ ┃ ┣ 📂 service         # 비즈니스 로직 처리
+ ┃ ┃ ┃ ┣ 📂 entity          # 엔티티 정보 정의
  ┃ ┃ ┃ ┗ 📂 repository      # 데이터베이스 접근 계층
  ┃ ┗ 📂 resources
  ┃ ┃ ┗ 📄 application.yml   # 설정 파일
+
 ```
 
 ---
