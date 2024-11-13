@@ -1,7 +1,3 @@
-여기 한국어 버전 README입니다. 필요에 따라 수정해서 사용하세요!
-
----
-
 # 🌟 My Spring Boot 3 Project
 
 👋 환영합니다! 이 프로젝트는 **MVC**와 **MariaDB**를 활용하여 간단한 Spring Boot 3 애플리케이션을 보여줍니다.
